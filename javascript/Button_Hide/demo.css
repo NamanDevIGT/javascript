@@ -1,0 +1,22 @@
+*{
+        margin: 0;
+        padding: 0;
+        color: black;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    border: 2px solid deeppink;
+    background-color: hotpink;
+}
+
+.btn2{
+    border: 2px solid green;
+    background-color: green;
+
+}
+
